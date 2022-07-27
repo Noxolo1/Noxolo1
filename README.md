@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Noxolo1
-- 👀 I’m interested in Math and CS!
-- 🌱 I’m currently learning Math and CS!
-- 💞️ I’m looking to collaborate on - not sure yet.
+- 👋 Hi, I’m @Nate
+- 👀 I’m interested in Math and Machine Learning!
+-  :school_satchel: I’m currently learning Math and Data Science at EWU!
+- :computer: I’m looking to collaborate on intro/intermediate level machine learning projects.
 - 📫 How to reach me. Email me at eft1799@gmail.com
 
 <!---
